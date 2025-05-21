@@ -1,6 +1,9 @@
 [package]
-name = "user/testpackage"
-version = "0.1.0"
+name = "unknown91248/testpackage"
+description = "Test package for a test run."
+authors = ["unknown91248"]
+license = "MIT"
+version = "0.2.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
