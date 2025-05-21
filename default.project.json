@@ -1,0 +1,6 @@
+{
+  "name": "testpackage",
+  "tree": {
+    "$path": "src"
+  }
+}

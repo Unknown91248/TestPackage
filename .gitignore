@@ -7,3 +7,4 @@ sourcemap.json
 .vscode
 package-lock.json 
 package.json
+.json
