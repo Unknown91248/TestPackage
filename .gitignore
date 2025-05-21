@@ -1,8 +1,9 @@
-# Project place file
-/TestGame.rbxlx
-
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
-Packages/
-wally.lock
+build
+node_modules
+roblox.toml 
+.moonwave
+aftman.toml
+sourcemap.json
+.vscode
+package-lock.json 
+package.json
