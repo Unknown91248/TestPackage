@@ -1,5 +1,5 @@
 {
-  "name": "src",
+  "name": "discordwebhook",
   "tree": {
     "$className": "DataModel",
     "ServerScriptService": {
